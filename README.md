@@ -1,5 +1,19 @@
 # 💫 About Me:
-Hey there! 👋<br>I'm Yogendra Singh Rathod, a Full Stack MERN Developer and a 3rd-year student at VIT Bhopal. I love building web apps that solve real-world problems and make life easier.<br><br>Right now, I'm working on Edu-Ma, a personal EdTech platform where users can:<br><br>🔐 Sign up, log in, even with Google, and reset passwords<br>🏆 Have different roles—Admin, Instructor, or Student<br>📚 Create and enroll in courses<br>📊 Manage profiles and more cool features<br>I'm always up for learning new things, collaborating on projects, and contributing to open source. Let’s connect and build something awesome together! 🚀
+Hey there! 👋
+
+I'm Yogendra Singh Rathod, a Gen AI Developer and Full Stack MERN Developer, currently in my 4th year at VIT Bhopal University with a CGPA of 8.67. I love building web apps that solve real-world problems and make life easier, and I'm particularly excited about the intersection of AI and web technologies.
+
+Right now, I'm working on Edu-Ma, a personal EdTech platform where users can:
+
+🔐 Sign up, log in, even with Google, and reset passwords
+
+🏆 Have different roles—Admin, Instructor, or Student
+
+📚 Create and enroll in courses
+
+📊 Manage profiles and more cool features
+
+I'm always up for learning new things, collaborating on projects, and contributing to open source. Let’s connect and build something awesome together! 🚀
 
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/yogendra-singh-rathod-82897624a/)
